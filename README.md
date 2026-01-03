@@ -10,7 +10,6 @@ This iteration implements:
 - Lexical analyzer using Flex
 - Syntax analyzer using Bison
 - Error handling with line number reporting
-- Modular architecture ready for future iterations
 
 ## Building
 
