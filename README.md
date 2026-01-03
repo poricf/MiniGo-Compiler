@@ -39,7 +39,7 @@ MiniGo-Compiler/
 │   ├── parser.y         # Bison parser definition
 │   ├── main.c           # Entry point
 │   ├── error.h/c        # Error handling module
-│   └── ast.h/c          # AST placeholder (for Iteration 2)
+│   └── ast.h/c          # AST placeholder 
 ├── examples/
 │   ├── valid/           # Valid Mini-Go programs
 │   └── invalid/         # Invalid programs for error testing
