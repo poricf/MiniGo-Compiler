@@ -4,7 +4,7 @@ A compiler for a simplified subset of the Go programming language, implemented a
 
 ## Project Status
 
-**Iteration 1: Lexical and Syntax Analysis** - ✅ Complete
+**Iteration 1: Lexical and Syntax Analysis** - 
 
 This iteration implements:
 - Lexical analyzer using Flex
@@ -46,7 +46,6 @@ MiniGo-Compiler/
 │   └── invalid/         # Invalid programs for error testing
 ├── build/               # Build output directory
 ├── Makefile             # Build configuration
-└── docs.md              # Design documentation
 ```
 
 ## Example Programs
